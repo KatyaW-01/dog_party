@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #000000;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #000000;
+}
+.logo {
+  height: 50px;
+}
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+li a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
+.hero {
+  text-align: center;
+  padding: 50px 20px;
+  background-image: url("assets/park.jpg");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.hero h1 {
+  font-size: 2.5em;
+}
+
+.hero img {
+  border-radius: 50%;
+  margin: 20px 0;
+}
+
+.hero form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.hero button {
+  padding: 10px 20px;
+  background-color: #75e2e6;
+  border: none;
+  cursor: pointer;
+}
