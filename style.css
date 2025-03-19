@@ -102,3 +102,10 @@ li a {
   border: none;
   cursor: pointer;
 }
+
+.social-media{
+  padding: 20px;
+  text-align: center;
+  background-color: #009f9c;
+  border: 10px solid #ff5efc;
+}
