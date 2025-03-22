@@ -7,7 +7,7 @@ body {
 }
 header{
   background-color: #4ed5ff;
-  border: 10px solid #391dff
+  border: 10px solid #391dff;
 }
 body {
   font-family: Arial, sans-serif;
@@ -66,14 +66,14 @@ li a {
 .info {
   display: flex;
   justify-content: space-evenly;
-  padding: 50px 20px;
+  padding: 50px 10px;
   background-color: #f0f0f0;
   border: 10px solid #0000ff
 }
 
 .dog-info {
   text-align: center;
-  padding: 80px 10px;
+  padding: 80px 5px;
   border-width: 10px; 
   border-style: solid; 
   border-color: #00ff00
@@ -93,6 +93,9 @@ li a {
 .dog-info p {
   font-size: 1em;
   margin: 10px 0;
+  text-align: left;
+  text-indent: 20px;
+  
 }
 
 .dog-info button {
